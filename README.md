@@ -16,4 +16,9 @@ To test this research quetsion the following research will be done. Their will b
 Guo, S. C. (2012). Using Authentic Materials for Extensive Reading to Promote English Proficiency. English Language Teaching, 5(8), 196-206.
 
 Johnsson‐Smaragdi, U., & Jönsson, A. (2006). Book Reading in Leisure Time: Long‐Term changes in young peoples' book reading habits. Scandinavian Journal of Educational Research, 50(5), 519-540.
+
+## change
+- grammer to vacabulary
+- maybe hours to number of books
+- control group no reading
  
